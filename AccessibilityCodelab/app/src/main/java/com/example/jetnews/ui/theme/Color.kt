@@ -18,8 +18,8 @@ package com.example.jetnews.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
-val Red200 = Color(0xfff297a2)
-val Red300 = Color(0xffea6d7e)
-val Red700 = Color(0xffdd0d3c)
-val Red800 = Color(0xffd00036)
-val Red900 = Color(0xffc20029)
+val Red200 = Color(0xFF009688)
+val Red300 = Color(0xFF2196F3)
+val Red700 = Color(0xFF4CAF50)
+val Red800 = Color(0xFF673AB7)
+val Red900 = Color(0xFFFF9800)
